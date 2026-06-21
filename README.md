@@ -18,8 +18,7 @@
 ## 🚀 About Me
 
 I'm a **full-stack web developer** passionate about building AI-powered applications and user-centric digital experiences. I love turning ideas into clean, scalable code and exploring the intersection of **frontend design** and **backend intelligence**.
-
-Currently pursuing my Bachelor's in Computer Science at Sridevi Women's Engineering College (expected 2026), with a strong track record of shipping production-ready applications using modern tech stacks.
+Recently completed my Bachelor's in Computer Science at Sridevi Women's Engineering College , with a strong track record of shipping production-ready applications using modern tech stacks.
 
 **What drives me:** Creating products that actually solve real problems, learning new technologies, and writing code I'm proud of.
 
